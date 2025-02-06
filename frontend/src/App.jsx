@@ -11,7 +11,7 @@ import {Loader} from "lucide-react";
 import { useAuthStore } from './store/useAuthStore.js';
 import { Toaster} from 'react-hot-toast';
 import {useThemeStore} from "./store/useThemeStore.js";
-import { useEffect } from 'react';
+
 
 
 
@@ -20,7 +20,7 @@ const App = () => {
   const { theme }= useThemeStore();
 
 
-  
+
 
   useEffect(() => {
     checkAuth();
