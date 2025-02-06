@@ -1,0 +1,23 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "✨ Full Stack Realtime Chat App ✨",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "",
+    "start": ""
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engripaye/chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engripaye/chat/issues"
+  },
+  "homepage": "https://github.com/engripaye/chat#readme"
+}
