@@ -1,0 +1,38 @@
+{
+
+  "name": "frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "start": "vite preview"
+  },
+
+
+
+  "dependencies": {
+
+  "axios": "^1.7.9",
+  "lucide-react": "^0.474.0",
+  "react": "^18.3.1",
+  "react-dom": "^18.3.1",
+  "react-hot-toast": "^2.5.1",
+  "react-router-dom": "^6.29.0",
+  "zustand": "^5.0.3"
+  },
+  "devDependencies": {
+  "@tailwindcss/postcss": "^4.0.3",
+  "autoprefixer": "^10.4.20",
+  "daisyui": "^4.12.23",
+  "init": "^0.1.2",
+  "npx": "^10.2.2",
+  "postcss": "^8.5.1",
+  "tailwindcss": "^4.0.3",
+  "vite": "^6.0.11"
+  }
+  
+
+}
+
