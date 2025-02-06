@@ -20,6 +20,7 @@ const App = () => {
   const { theme }= useThemeStore();
 
 
+  console.log(onlineUsers);
 
 
   useEffect(() => {
